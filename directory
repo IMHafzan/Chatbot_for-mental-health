@@ -1,0 +1,20 @@
+chatbot_project/
+│
+├── data/
+│   └── intents.json
+│
+├── models/
+│   └── bert_model.pth
+│
+├── scripts/
+│   ├── train_chatbot.py
+│   └── run_chatbot.py
+│
+├── src/
+│   ├── __init__.py
+│   ├── data_processing.py
+│   ├── model_definition.py
+│   ├── intent_recognition.py
+│   └── response_generation.py
+│
+└── README.md
